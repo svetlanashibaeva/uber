@@ -5,3 +5,7 @@
 2) препроцессор SASS
 3) JavaScript
 
+## Посмотреть демо-версию
+
+ [Demo](https://svetlanashibaeva.github.io/uber-test-site/)
+
